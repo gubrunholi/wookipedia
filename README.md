@@ -47,4 +47,4 @@ Contribuições são bem-vindas! Se você quiser contribuir para o projeto, siga
 
 ---
 
-**2024 © WookiPedia** | [Privacidade](#) | [Termos de Uso](#)
+**2024 © WookiPedia**
